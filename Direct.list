@@ -25,6 +25,22 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+#PT
+DOMAIN-KEYWORD,tjupt.org
+DOMAIN-KEYWORD,m-team.io
+DOMAIN-KEYWORD,m-team.cc
+DOMAIN-KEYWORD,kp.m-team.cc
+DOMAIN-KEYWORD,pthome.net
+DOMAIN-KEYWORD,et8.org
+DOMAIN-KEYWORD,pt.soulvoice.club
+DOMAIN-KEYWORD,ubits.club
+DOMAIN-KEYWORD,pt.btschool.club
+DOMAIN-KEYWORD,totheglory.im
+DOMAIN-KEYWORD,leaves.red
+DOMAIN-KEYWORD,pterclub.com
+DOMAIN-KEYWORD,xingtan.one
+DOMAIN-KEYWORD,tracker.cinefiles.info
+DOMAIN-KEYWORD,audiences
 
 # 360
 DOMAIN-SUFFIX,360.com
