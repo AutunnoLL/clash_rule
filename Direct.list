@@ -25,6 +25,9 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+#其他
+DOMAIN-SUFFIX,deepl.com
+
 #PT
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,m-team.io
