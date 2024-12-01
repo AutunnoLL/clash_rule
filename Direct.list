@@ -26,21 +26,21 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 #PT
-DOMAIN-KEYWORD,tjupt.org
-DOMAIN-KEYWORD,m-team.io
-DOMAIN-KEYWORD,m-team.cc
-DOMAIN-KEYWORD,kp.m-team.cc
-DOMAIN-KEYWORD,pthome.net
-DOMAIN-KEYWORD,et8.org
-DOMAIN-KEYWORD,pt.soulvoice.club
-DOMAIN-KEYWORD,ubits.club
-DOMAIN-KEYWORD,pt.btschool.club
-DOMAIN-KEYWORD,totheglory.im
-DOMAIN-KEYWORD,leaves.red
-DOMAIN-KEYWORD,pterclub.com
-DOMAIN-KEYWORD,xingtan.one
-DOMAIN-KEYWORD,tracker.cinefiles.info
-DOMAIN-KEYWORD,audiences
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,et8.org
+DOMAIN-SUFFIX,pt.soulvoice.club
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,xingtan.one
+DOMAIN-SUFFIX,tracker.cinefiles.info
+DOMAIN-SUFFIX,audiences
 
 # 360
 DOMAIN-SUFFIX,360.com
