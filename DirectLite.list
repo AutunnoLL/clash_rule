@@ -1,0 +1,38 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# MyList
+
+# IP段匹配
+IP-CIDR,219.146.1.66/32,no-resolve
+
+# 国内DNS
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.pub
+IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,219.147.1.66/32,no-resolve
+IP-CIDR,119.29.29.29/32,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,223.6.6.6/32,no-resolve
+IP-CIDR,180.76.76.76/32,no-resolve
+IP-CIDR,114.114.114.114/32,no-resolve
+IP-CIDR,114.114.115.115/32,no-resolve
+
+#其他
+DOMAIN-SUFFIX,deepl.com
+
+#PT
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,et8.org
+DOMAIN-SUFFIX,pt.soulvoice.club
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,xingtan.one
+DOMAIN-SUFFIX,tracker.cinefiles.info
+DOMAIN-SUFFIX,audiences
