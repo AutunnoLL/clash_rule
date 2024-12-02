@@ -19,6 +19,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 #其他
 DOMAIN-SUFFIX,deepl.com
+PROCESS-NAME,netbird
 
 #PT
 DOMAIN-SUFFIX,tjupt.org
