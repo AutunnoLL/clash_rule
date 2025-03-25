@@ -16,6 +16,9 @@ DOMAIN-KEYWORD,saururus
 DOMAIN-SUFFIX,xsus.wiki
 DOMAIN-KEYWORD,xsus
 
+#PT
+DOMAIN-KEYWORD,star-space
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
